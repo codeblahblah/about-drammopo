@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = About::Drammopo::VERSION
   spec.authors       = ["drammopo"]
   spec.email         = ["username@example.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Simple use of a gem created elsewhere.}
+  spec.description   = %q{Learning about Ruby Gems and Gemfiles using Jeweler, Semantic Versioning and the Ruby Toolbox.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
