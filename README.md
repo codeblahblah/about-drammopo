@@ -1,20 +1,18 @@
 # About::Drammopo
 
-TODO: Write a gem description
+Implementation of simple Gem code. Awesomer
+
+THIS IS NOT REAL CODE (just sample for a class)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'about-drammopo'
+    gem 'about-drammopo', github: "drammopo/about-drammopo"
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install about-drammopo
 
 ## Usage
 
